@@ -1,67 +1,78 @@
 {
     "Cloud computing": [
         "Cybersecurity ",
-        "VR (virtual reality)",
-        "Ethical Hacking",
-        "Animation "
+        "Blockchain",
+        "Big Data analytics",
+        "Computing and Mathematics",
+        "VR (virtual reality)"
     ],
     "UX design": [
         "Graphic Design ",
+        "Industrial design",
         "VR (virtual reality)",
         "Packaging design",
         "Drawing"
     ],
     "Animation ": [
         "Illustration",
+        "Dancing",
         "Performing arts",
         "VR (virtual reality)",
         "Graphic Design "
     ],
     "Foreign Languages": [
         "Translating and languages",
-        "Graphic Design ",
-        "VR (virtual reality)",
-        "Playing musical instruments"
+        "Communication Skills",
+        "Corporate Communications",
+        "Public Speaking",
+        "Audio production"
     ],
     "Cybersecurity ": [
         "Ethical Hacking",
         "Cloud computing",
-        "Animation ",
-        "Sculpting"
+        "Statistical analysis and Graphs",
+        "Blockchain",
+        "Computing and Mathematics"
     ],
     "Ethical Hacking": [
         "Cybersecurity ",
-        "Sustainable farming",
-        "Cloud computing",
-        "Learn to knit (sweater) (Knitting, Sewing, and Crocheting)"
+        "Yoga/Meditation",
+        "Philosophy and Ethics",
+        "Blockchain",
+        "Sustainable farming"
     ],
     "VR (virtual reality)": [
         "Graphic Design ",
         "UX design",
         "Animation ",
+        "Yoga/Meditation",
         "Performing arts"
     ],
     "Packaging design": [
+        "Industrial design",
         "Graphic Design ",
         "UX design",
-        "Understanding global food systems",
-        "VR (virtual reality)"
+        "Persuasion and negotiation",
+        "Understanding global food systems"
     ],
     "Sustainable farming": [
         "Managing environmental resources",
         "Grazing management",
         "Beekeeping",
+        "Yoga/Meditation",
         "Animal husbandry"
     ],
     "Managing environmental resources": [
         "Sustainable farming",
         "Grazing management",
         "Beekeeping",
-        "Understanding global food systems"
+        "People management",
+        "Philosophy and Ethics"
     ],
     "Mushroom cultivation": [
         "Sustainable farming",
         "Audio Production",
+        "Music Producing",
         "Understanding global food systems",
         "Tree Fruit production"
     ],
@@ -69,71 +80,83 @@
         "Animal husbandry",
         "Sports/Fitness Coach/Nutritionist",
         "Sustainable farming",
-        "Grazing management"
+        "Grazing management",
+        "Managing environmental resources"
     ],
     "Tree Fruit production": [
         "Mushroom cultivation",
         "Sustainable farming",
         "Packaging design",
-        "Beekeeping"
+        "Beekeeping",
+        "Industrial design"
     ],
     "Grazing management": [
         "Managing environmental resources",
         "Animal husbandry",
         "Sustainable farming",
-        "Beekeeping"
+        "Beekeeping",
+        "Understanding global food systems"
     ],
     "Understanding global food systems": [
         "Animal husbandry",
         "Sustainable farming",
         "Sports/Fitness Coach/Nutritionist",
-        "Managing environmental resources"
+        "Managing environmental resources",
+        "Mushroom cultivation"
     ],
     "Sports/Fitness Coach/Nutritionist": [
+        "Personal Training",
+        "Life Coaching",
         "Beekeeping",
         "Understanding global food systems",
-        "Animal husbandry",
-        "Sustainable farming"
+        "Sports Arbitrage"
     ],
     "Audio Production": [
+        "Music Producing",
+        "Audio production",
         "Performing arts",
-        "Playing musical instruments",
-        "Mushroom cultivation",
-        "Illustration"
+        "Video production",
+        "Singing"
     ],
     "Translating and languages": [
         "Foreign Languages",
         "Illustration",
         "Audio Production",
+        "Public Speaking",
         "Performing arts"
     ],
     "Playing musical instruments": [
+        "Music Producing",
+        "Singing",
+        "Audio production",
         "Performing arts",
-        "Audio Production",
-        "Learn to knit (sweater) (Knitting, Sewing, and Crocheting)",
-        "Animation "
+        "Audio Production"
     ],
     "Performing arts": [
+        "Music Producing",
         "Illustration",
-        "Painting",
-        "Audio Production",
-        "Drawing"
+        "Dancing",
+        "Singing",
+        "Painting"
     ],
     "Creative writing": [
         "Graphic Design ",
         "Performing arts",
         "Illustration",
-        "Drawing"
+        "Drawing",
+        "Persuasion and negotiation"
     ],
     "Animal husbandry": [
         "Grazing management",
         "Beekeeping",
         "Sustainable farming",
-        "Understanding global food systems"
+        "Understanding global food systems",
+        "Sports/Fitness Coach/Nutritionist"
     ],
     "Learn to knit (sweater) (Knitting, Sewing, and Crocheting)": [
         "Painting",
         "Playing musical instruments",
+        "Yoga/Meditation",
         "Sculpting",
         "Drawing"
     ],
@@ -141,16 +164,19 @@
         "Painting",
         "Illustration",
         "Performing arts",
-        "Sculpting"
+        "Sculpting",
+        "Graphic Design "
     ],
     "Painting": [
         "Drawing",
         "Illustration",
         "Performing arts",
-        "Sculpting"
+        "Sculpting",
+        "Graphic Design "
     ],
     "Graphic Design ": [
         "Illustration",
+        "Industrial design",
         "UX design",
         "VR (virtual reality)",
         "Drawing"
@@ -159,12 +185,217 @@
         "Performing arts",
         "Drawing",
         "Painting",
-        "Graphic Design "
+        "Graphic Design ",
+        "Animation "
     ],
     "Sculpting": [
         "Drawing",
         "Painting",
         "Performing arts",
+        "Music Producing",
         "Illustration"
+    ],
+    "Singing": [
+        "Performing arts",
+        "Playing musical instruments",
+        "Music Producing",
+        "Audio production",
+        "Audio Production"
+    ],
+    "Dancing": [
+        "Performing arts",
+        "Animation ",
+        "Yoga/Meditation",
+        "Music Producing",
+        "Singing"
+    ],
+    "Relationship Advice": [
+        "Career counseling",
+        "Counselling",
+        "Personal Training",
+        "Life Coaching",
+        "Communication Skills"
+    ],
+    "Counselling": [
+        "Career counseling",
+        "Relationship Advice",
+        "Life Coaching",
+        "Yoga/Meditation",
+        "Spirituality"
+    ],
+    "Self Development": [
+        "Personal Training",
+        "Financial Management",
+        "Life Coaching",
+        "Career counseling",
+        "Industrial design"
+    ],
+    "Personal Training": [
+        "Sports/Fitness Coach/Nutritionist",
+        "Life Coaching",
+        "Career counseling",
+        "Self Development",
+        "Yoga/Meditation"
+    ],
+    "Public Speaking": [
+        "Public Relations",
+        "Performing arts",
+        "Foreign Languages",
+        "Audio Production",
+        "Communication Skills"
+    ],
+    "Music Producing": [
+        "Audio Production",
+        "Audio production",
+        "Performing arts",
+        "Playing musical instruments",
+        "Singing"
+    ],
+    "Career counseling": [
+        "Counselling",
+        "Life Coaching",
+        "Relationship Advice",
+        "Personal Training",
+        "Self Development"
+    ],
+    "Life Coaching": [
+        "Personal Training",
+        "Career counseling",
+        "Sports/Fitness Coach/Nutritionist",
+        "Counselling",
+        "Yoga/Meditation"
+    ],
+    "Astrology": [
+        "Yoga/Meditation",
+        "Philosophy and Ethics",
+        "Spirituality",
+        "Statistical analysis and Graphs",
+        "Career counseling"
+    ],
+    "Spirituality": [
+        "Yoga/Meditation",
+        "Counselling",
+        "VR (virtual reality)",
+        "Astrology",
+        "Sustainable farming"
+    ],
+    "Yoga/Meditation": [
+        "Spirituality",
+        "Dancing",
+        "Personal Training",
+        "Sustainable farming",
+        "Life Coaching"
+    ],
+    "People management": [
+        "Financial Management",
+        "Corporate Communications",
+        "Life Coaching",
+        "Managing environmental resources",
+        "Communication Skills"
+    ],
+    "Video production": [
+        "Audio production",
+        "Audio Production",
+        "Music Producing",
+        "Corporate Communications",
+        "Animation "
+    ],
+    "Audio production": [
+        "Video production",
+        "Audio Production",
+        "Music Producing",
+        "Corporate Communications",
+        "Playing musical instruments"
+    ],
+    "Industrial design": [
+        "Packaging design",
+        "Graphic Design ",
+        "UX design",
+        "Illustration",
+        "Music Producing"
+    ],
+    "Blockchain": [
+        "Cloud computing",
+        "Big Data analytics",
+        "Cybersecurity ",
+        "Ethical Hacking",
+        "Audio production"
+    ],
+    "Big Data analytics": [
+        "Statistical analysis and Graphs",
+        "Blockchain",
+        "Corporate Communications",
+        "Cloud computing",
+        "Time Management"
+    ],
+    "Communication Skills": [
+        "Corporate Communications",
+        "Foreign Languages",
+        "Audio production",
+        "Public Speaking",
+        "Public Relations"
+    ],
+    "Time Management": [
+        "Corporate Communications",
+        "Financial Management",
+        "People management",
+        "Big Data analytics",
+        "Career counseling"
+    ],
+    "Persuasion and negotiation": [
+        "Public Relations",
+        "Corporate Communications",
+        "Philosophy and Ethics",
+        "Financial Management",
+        "Packaging design"
+    ],
+    "Corporate Communications": [
+        "Communication Skills",
+        "Audio production",
+        "People management",
+        "Foreign Languages",
+        "Financial Management"
+    ],
+    "Public Relations": [
+        "Public Speaking",
+        "Persuasion and negotiation",
+        "Corporate Communications",
+        "Communication Skills",
+        "People management"
+    ],
+    "Financial Management": [
+        "People management",
+        "Corporate Communications",
+        "Self Development",
+        "Time Management",
+        "Sports Arbitrage"
+    ],
+    "Philosophy and Ethics": [
+        "Persuasion and negotiation",
+        "Managing environmental resources",
+        "Ethical Hacking",
+        "Astrology",
+        "Yoga/Meditation"
+    ],
+    "Computing and Mathematics": [
+        "Statistical analysis and Graphs",
+        "Cloud computing",
+        "Cybersecurity ",
+        "Graphic Design ",
+        "Blockchain"
+    ],
+    "Statistical analysis and Graphs": [
+        "Big Data analytics",
+        "Cybersecurity ",
+        "Computing and Mathematics",
+        "Animation ",
+        "Cloud computing"
+    ],
+    "Sports Arbitrage": [
+        "Sports/Fitness Coach/Nutritionist",
+        "Financial Management",
+        "Persuasion and negotiation",
+        "Big Data analytics",
+        "Personal Training"
     ]
 }

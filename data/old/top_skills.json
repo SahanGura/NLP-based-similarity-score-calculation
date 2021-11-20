@@ -1,0 +1,170 @@
+{
+    "Cloud computing": [
+        "Cybersecurity ",
+        "VR (virtual reality)",
+        "Ethical Hacking",
+        "Animation "
+    ],
+    "UX design": [
+        "Graphic Design ",
+        "VR (virtual reality)",
+        "Packaging design",
+        "Drawing"
+    ],
+    "Animation ": [
+        "Illustration",
+        "Performing arts",
+        "VR (virtual reality)",
+        "Graphic Design "
+    ],
+    "Foreign Languages": [
+        "Translating and languages",
+        "Graphic Design ",
+        "VR (virtual reality)",
+        "Playing musical instruments"
+    ],
+    "Cybersecurity ": [
+        "Ethical Hacking",
+        "Cloud computing",
+        "Animation ",
+        "Sculpting"
+    ],
+    "Ethical Hacking": [
+        "Cybersecurity ",
+        "Sustainable farming",
+        "Cloud computing",
+        "Learn to knit (sweater) (Knitting, Sewing, and Crocheting)"
+    ],
+    "VR (virtual reality)": [
+        "Graphic Design ",
+        "UX design",
+        "Animation ",
+        "Performing arts"
+    ],
+    "Packaging design": [
+        "Graphic Design ",
+        "UX design",
+        "Understanding global food systems",
+        "VR (virtual reality)"
+    ],
+    "Sustainable farming": [
+        "Managing environmental resources",
+        "Grazing management",
+        "Beekeeping",
+        "Animal husbandry"
+    ],
+    "Managing environmental resources": [
+        "Sustainable farming",
+        "Grazing management",
+        "Beekeeping",
+        "Understanding global food systems"
+    ],
+    "Mushroom cultivation": [
+        "Sustainable farming",
+        "Audio Production",
+        "Understanding global food systems",
+        "Tree Fruit production"
+    ],
+    "Beekeeping": [
+        "Animal husbandry",
+        "Sports/Fitness Coach/Nutritionist",
+        "Sustainable farming",
+        "Grazing management"
+    ],
+    "Tree Fruit production": [
+        "Mushroom cultivation",
+        "Sustainable farming",
+        "Packaging design",
+        "Beekeeping"
+    ],
+    "Grazing management": [
+        "Managing environmental resources",
+        "Animal husbandry",
+        "Sustainable farming",
+        "Beekeeping"
+    ],
+    "Understanding global food systems": [
+        "Animal husbandry",
+        "Sustainable farming",
+        "Sports/Fitness Coach/Nutritionist",
+        "Managing environmental resources"
+    ],
+    "Sports/Fitness Coach/Nutritionist": [
+        "Beekeeping",
+        "Understanding global food systems",
+        "Animal husbandry",
+        "Sustainable farming"
+    ],
+    "Audio Production": [
+        "Performing arts",
+        "Playing musical instruments",
+        "Mushroom cultivation",
+        "Illustration"
+    ],
+    "Translating and languages": [
+        "Foreign Languages",
+        "Illustration",
+        "Audio Production",
+        "Performing arts"
+    ],
+    "Playing musical instruments": [
+        "Performing arts",
+        "Audio Production",
+        "Learn to knit (sweater) (Knitting, Sewing, and Crocheting)",
+        "Animation "
+    ],
+    "Performing arts": [
+        "Illustration",
+        "Painting",
+        "Audio Production",
+        "Drawing"
+    ],
+    "Creative writing": [
+        "Graphic Design ",
+        "Performing arts",
+        "Illustration",
+        "Drawing"
+    ],
+    "Animal husbandry": [
+        "Grazing management",
+        "Beekeeping",
+        "Sustainable farming",
+        "Understanding global food systems"
+    ],
+    "Learn to knit (sweater) (Knitting, Sewing, and Crocheting)": [
+        "Painting",
+        "Playing musical instruments",
+        "Sculpting",
+        "Drawing"
+    ],
+    "Drawing": [
+        "Painting",
+        "Illustration",
+        "Performing arts",
+        "Sculpting"
+    ],
+    "Painting": [
+        "Drawing",
+        "Illustration",
+        "Performing arts",
+        "Sculpting"
+    ],
+    "Graphic Design ": [
+        "Illustration",
+        "UX design",
+        "VR (virtual reality)",
+        "Drawing"
+    ],
+    "Illustration": [
+        "Performing arts",
+        "Drawing",
+        "Painting",
+        "Graphic Design "
+    ],
+    "Sculpting": [
+        "Drawing",
+        "Painting",
+        "Performing arts",
+        "Illustration"
+    ]
+}
